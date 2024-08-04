@@ -1,0 +1,2 @@
+# Discord-Emotes
+Emojis.
